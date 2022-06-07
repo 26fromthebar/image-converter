@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "imagemin": "^8.0.1",
+    "imagemin-webp": "^7.0.0"
+  },
+  "name": "img-convert",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "convert": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "type": "module"
+}
